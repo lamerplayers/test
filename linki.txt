@@ -1,0 +1,64 @@
+/*Science-Fiction*/
+
+/* Sources of info (for look) */
+"https://pl.wikipedia.org/wiki/Fantastyka_naukowa",
+
+/*Video Links (for look)*/
+"https://www.youtube.com/watch?v=ozOtu4ZK_cY",
+"https://www.youtube.com/watch?v=nXpBeNd3iXY"
+
+/*Photos url (for main and gallery)*/
+`https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wormhole_travel_as_envisioned_by_Les_Bossinas_for_NASA.jpg/640px-Wormhole_travel_as_envisioned_by_Les_Bossinas_for_NASA.jpg`,
+"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/War-of-the-worlds-tripod.jpg/640px-War-of-the-worlds-tripod.jpg",
+
+/*Photos Site Source (for look)*/
+"https://commons.wikimedia.org/wiki/File:Wormhole_travel_as_envisioned_by_Les_Bossinas_for_NASA.jpg",
+"https://commons.wikimedia.org/wiki/File:War-of-the-worlds-tripod.jpg",
+"https://www.rtvmaniak.pl/9573878/top-najlepsze-filmy-sf/"
+
+/*ciekawostki links (for look)*/
+"https://naekranie.pl/artykuly/ciekawostki-zza-kulis-znanych-filmow-science-fiction-galeria"
+
+
+/*Horror*/
+
+/* Sources of info */
+"https://pl.wikipedia.org/wiki/Horror",
+
+/*Video Links*/
+"https://www.youtube.com/watch?v=etBpidetOPg", 
+"https://www.youtube.com/watch?v=ABK6832rmr4"
+/*ciekawostki links (for look)*/
+"https://www.polishexpress.co.uk/13-mrocznych-ciekawostek-o-horrorach"
+
+/*Photos url*/
+"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Halloween_Horror_Nights_-_American_Horror_Story_%2830552583355%29.jpg/640px-Halloween_Horror_Nights_-_American_Horror_Story_%2830552583355%29.jpg",
+"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frankenstein%27s_monster_%28Boris_Karloff%29.jpg/640px-Frankenstein%27s_monster_%28Boris_Karloff%29.jpg",
+
+/*Photos Site Source*/
+"https://commons.wikimedia.org/wiki/File:Halloween_Horror_Nights_-_American_Horror_Story_(30552583355).jpg",
+"https://commons.wikimedia.org/wiki/File:Frankenstein%27s_monster_(Boris_Karloff).jpg",
+"https://naekranie.pl/aktualnosci/najlepsze-horrory-2022-roku-rotten-tomatoes-ranking-1665403747",
+
+
+/*Comedia*/
+
+/* Sources of info */
+"https://pl.wikipedia.org/wiki/Komedia",
+
+/*Video Links*/
+"https://www.youtube.com/watch?v=-HGWsPsrhKI",
+"https://www.youtube.com/watch?v=vHKU_bcA0_c"
+
+/*Photos url*/
+"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pop_Art_Cubism_2022_Humor_In_Art_by_David_S._Soriano.png/640px-Pop_Art_Cubism_2022_Humor_In_Art_by_David_S._Soriano.png",
+"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Comedy_and_tragedy_masks_without_background.svg/640px-Comedy_and_tragedy_masks_without_background.svg.png",
+
+/*Photos Site Source*/
+"https://commons.wikimedia.org/wiki/File:Pop_Art_Cubism_2022_Humor_In_Art_by_David_S._Soriano.png",
+"https://commons.wikimedia.org/wiki/File:Comedy_and_tragedy_masks_without_background.svg",
+"https://www.rtvmaniak.pl/9588693/najlepsze-komedie-top/",
+
+/*ciekawostki links (for look)*/
+"https://zalajkowane.pl/16-ciekawostek-o-kultowych-polskich-komediach/"
+      
